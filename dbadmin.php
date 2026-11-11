@@ -9,10 +9,10 @@ ini_set('display_errors', '0');
 error_reporting(E_ALL);
 set_time_limit(0);
 
-const DB_HOST = '45.155.90.47';
+const DB_HOST = '';
 const DB_PORT = 7999;
 const DB_USER = 'xtream_masters_user';
-const DB_PASS = 'X2417eoNPsmTlyb';
+const DB_PASS = '';
 const DB_NAME = 'xtreammasters';
 const PAGE_SIZE = 50;
 
